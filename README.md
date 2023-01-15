@@ -4,4 +4,4 @@ Testing-Library training Repository [Testing-Library](https://testing-library.co
 
 ## Tools
 
-[![Testing-Library](https://img.shields.io/badge/-Testing Library-000?style=for-the-badge&logo=Testing-Library&logoColor=944058)](https://testing-library.com)
+[![Testing-Library](https://img.shields.io/badge/-Testing_Library-000?style=for-the-badge&logo=Testing-Library&logoColor=944058)](https://testing-library.com)
