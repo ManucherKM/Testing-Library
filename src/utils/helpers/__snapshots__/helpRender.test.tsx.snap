@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Тестирование helpRender Правильное значение 1`] = `"test 11"`;
+
+exports[`Тестирование helpRender Правильное значение 2`] = `"test 21"`;
+
+exports[`Тестирование helpRender Правильное значение 3`] = `"test 31"`;
+
+exports[`Тестирование helpRender Правильное значение 4`] = `"test 41"`;
+
+exports[`Тестирование helpRender Правильное значение 5`] = `"test 51"`;
+
+exports[`Тестирование helpRender Правильное значение 6`] = `"test asd1"`;
+
+exports[`Тестирование helpRender Правильное значение 7`] = `"test 71"`;
+
+exports[`Тестирование helpRender Правильное значение 8`] = `"test 81"`;
+
+exports[`Тестирование helpRender Правильное значение 9`] = `"test 91"`;
+
+exports[`Тестирование helpRender Правильное значение 10`] = `"test 101"`;
+
+exports[`Тестирование helpRender Правильное значение 11`] = `"test 111"`;
+
+exports[`Тестирование helpRender Правильное значение 12`] = `"test 121"`;
+
+exports[`Тестирование helpRender Правильное значение 13`] = `"test 131"`;
+
+exports[`Тестирование helpRender Правильное значение 14`] = `"test 141"`;
+
+exports[`Тестирование helpRender Правильное значение 15`] = `"test 151"`;
